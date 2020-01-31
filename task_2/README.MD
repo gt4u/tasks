@@ -22,9 +22,8 @@
 14. [Подключение E-mail ящика к amoCRM](https://youtu.be/h669n2UViMk)
 15. [Отправка E-mail писем в amoCRM](https://youtu.be/JypYdraABOE)
 16. [Переход на зеркало amoCRM при неполадках](https://youtu.be/DR7gsSMOn4U)
-17. [Обновление API ключа в интеграциях ГУД технологии](https://youtu.be/TSpV8HPnVic)
-18. [Правила работы с заявками по входящим звонкам](https://youtu.be/XGzB_ryb7U0)
-19. [Правила работы по заявкам с сайта и с Клиентами в офисе](https://youtu.be/UlrOCyVwZAc)
+17. [Правила работы с заявками по входящим звонкам](https://youtu.be/XGzB_ryb7U0)
+18. [Правила работы по заявкам с сайта и с Клиентами в офисе](https://youtu.be/UlrOCyVwZAc)
 
 #### Список онлайн тестов:
 1. [Теоритический тест по работе с AmoCrm](https://forms.gle/qv2ZCYGa2jmPCBVa6)
